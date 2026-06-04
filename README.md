@@ -219,7 +219,7 @@ This lab is part of a growing IT Help Desk portfolio:
 
 | Project | Description |
 |---------|-------------|
-| [Active Directory Lab #1 — New Employee Onboarding](https://github.com/your-username/active-directory-lab-01-employee-onboarding) | Full employee account lifecycle — onboarding through offboarding |
+| [Active Directory Lab #1 — New Employee Onboarding](https://github.com/C-dscott/ActiveDirectoryLab#active-directory-home-lab) | Full employee account lifecycle — onboarding through offboarding |
 | **IT Help Desk Simulation — Incident Management** *(This Repo)* | Five real-world incident tickets created in ServiceNow and resolved in Active Directory |
 
 ---
