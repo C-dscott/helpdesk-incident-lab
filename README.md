@@ -236,8 +236,8 @@ Working through these five scenarios gave me a real appreciation for how Service
 
 I am actively seeking my first IT Help Desk Support role. Feel free to reach out — I would love to connect.
 
-- 💼 [**LinkedIn:](https://www.linkedin.com/in/carolynscott55/)**
-- 🐙 [**GitHub:](https://github.com/C-dscott)**
+- 💼 [**LinkedIn](https://www.linkedin.com/in/carolynscott55/)**
+- 🐙 [**GitHub](https://github.com/C-dscott)**
   
 
 ---
