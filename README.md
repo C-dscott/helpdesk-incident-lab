@@ -209,7 +209,7 @@ Located Angela Forsythe's account in Active Directory Users and Computers. Opene
 
 A full video walkthrough of this lab is available on YouTube. Watch the complete workflow from ticket creation in ServiceNow through to resolution and closure in Active Directory.
 
-▶️ **[Watch on YouTube — Link Coming Soon]**
+▶️ **[Watch on YouTube](https://www.youtube.com/playlist?list=PLoowYzuxGQ0AnRZMVtwsAvOnVTKLQKhEM)**
 
 ---
 
