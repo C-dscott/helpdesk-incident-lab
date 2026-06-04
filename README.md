@@ -47,9 +47,9 @@ This lab is part of a larger portfolio that includes an **Active Directory New E
 Hypervisor     :  Oracle VirtualBox
 Server OS      :  Windows Server 2022 (Desktop Experience)
 Role           :  Active Directory Domain Services (AD DS)
-Domain         :  techcorp.local
+Domain         :  carolyn.org
 Ticketing      :  ServiceNow (Developer Instance)
-OU Structure   :  TechCorp > HR | IT | Sales | Disabled Users
+OU Structure   :  ITCorp > HR | IT | Sales | Disabled Users
 ```
 
 ---
