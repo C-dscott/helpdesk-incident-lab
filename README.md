@@ -192,7 +192,6 @@ Located Rowena Steeves's account in Active Directory Users and Computers. Opened
 
 ## 📸 Screenshots
 
-> *Screenshots will be added as each ticket is demonstrated in the video walkthrough.*
 
 | Screenshot | Description |
 |-----------|-------------|
