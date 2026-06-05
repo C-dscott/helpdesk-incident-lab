@@ -197,10 +197,29 @@ Located Rowena Steeves's account in Active Directory Users and Computers. Opened
 | Screenshot | Description |
 |-----------|-------------|
 | 📷 Coming Soon | ServiceNow incident queue showing all 5 tickets |
-| 📷 Coming Soon | ServiceNow ticket detail — INC-3001 account lockout |
-| 📷 Coming Soon | Active Directory — unlocking a locked account |
-| 📷 Coming Soon | Active Directory — Security Group membership update |
-
+ServiceNow ticket detail — INC-3001 account lockout 
+<br /> Account Lockout - Ticket Details <br/>
+<img src="https://imgur.com/KAj4e1M.png" height="80%" width="80%" alt="Creating Ticket Reference Steps"/>
+<br />
+<br />
+Active Directory — unlocking a locked account 
+<br />
+<img src="https://imgur.com/oBIAu8Z.png" height="80%" width="80%" alt="Creating Ticket Reference Steps"/>
+<br />
+<img src="https://imgur.com/6YuwC86.png" height="80%" width="80%" alt="Creating Ticket Reference  Steps"/>
+<br />
+<img src="https://imgur.com/MoKmo6L.png" height="80%" width="80%" alt="Creating Ticket Reference  Steps"/>
+<br />
+<img src="https://imgur.com/QDdUBK4.png" height="80%" width="80%" alt="Creating Ticket Reference  Steps"/>
+<br />
+<img src="https://imgur.com/DvUS3Hh.png" height="80%" width="80%" alt="Creating Ticket Reference  Steps"/>
+<br />
+<img src="https://imgur.com/OVH8jc3.png" height="80%" width="80%" alt="Creating Ticket Reference Steps"/>
+<br />
+<br />
+Active Directory — Security Group membership update 
+<br /> Security Group Update  <br/>
+<img src="https://imgur.com/qDHloDX.png" height="80%" width="80%" alt="Disabling the Account Steps"/>
 <br />
 <br />
 Active Directory — disabled account in Disabled Users OU 
