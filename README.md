@@ -200,7 +200,10 @@ Located Rowena Steeves's account in Active Directory Users and Computers. Opened
 | 📷 Coming Soon | ServiceNow ticket detail — INC-3001 account lockout |
 | 📷 Coming Soon | Active Directory — unlocking a locked account |
 | 📷 Coming Soon | Active Directory — Security Group membership update |
-| Active Directory — disabled account in Disabled Users OU |
+
+<br />
+<br />
+Active Directory — disabled account in Disabled Users OU 
 <br /> Disabling the Account — Employee Offboarding  <br/>
 <img src="https://imgur.com/LEHHgDD.png" height="80%" width="80%" alt="Disabling the Account Steps"/>
 <br />
@@ -213,7 +216,7 @@ Located Rowena Steeves's account in Active Directory Users and Computers. Opened
 <img src="https://imgur.com/lIX5eqT.png" height="80%" width="80%" alt="Disabling the Account Steps"/>
 <br />
 <br />
-| ServiceNow — closed ticket with resolution notes |
+ServiceNow — closed ticket with resolution notes 
 <br /> Closed Ticket  <br/>
 <img src="https://imgur.com/2yajfJr.png" height="80%" width="80%" alt="Disabling the Account Steps"/>
 <br />
