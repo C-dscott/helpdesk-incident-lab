@@ -196,7 +196,7 @@ Located Rowena Steeves's account in Active Directory Users and Computers. Opened
 
 | Screenshot | Description |
 |-----------|-------------|
-| 📷 Coming Soon | ServiceNow incident queue showing all 5 tickets |
+
 ServiceNow ticket detail — INC-3001 account lockout 
 <br /> Account Lockout - Ticket Details <br/>
 <img src="https://imgur.com/KAj4e1M.png" height="80%" width="80%" alt="Creating Ticket Reference Steps"/>
