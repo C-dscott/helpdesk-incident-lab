@@ -72,11 +72,11 @@ The following five incidents were created in ServiceNow and resolved in Active D
 
 | Ticket # | Issue | Affected User | Priority | Status |
 |----------|-------|---------------|----------|--------|
-| INC-3001 | Account lockout — user cannot log in | Jane Mitchell | 🔴 High | ✅ Resolved |
-| INC-3002 | Forgotten password — reset required | Marcus Delgado | 🟡 Standard | ✅ Resolved |
-| INC-3003 | New employee needs shared folder access | Priya Nair | 🟡 Standard | ✅ Resolved |
-| INC-3004 | Terminated employee — disable account immediately | Thomas Buchanan | 🔴 High | ✅ Resolved |
-| INC-3005 | Incorrect display name in Active Directory | Angela Forsythe | 🟡 Standard | ✅ Resolved |
+| INC-0010023 | Account lockout — user cannot log in | Barry Harriston | 🔴 High | ✅ Resolved |
+| INC-0010024 | Forgotten password — reset required | Carli Trueblood | 🟡 Standard | ✅ Resolved |
+| INC-0010025 | New employee needs shared folder access | Joane Ausherman | 🟡 Standard | ✅ Resolved |
+| INC-0010026 | Terminated employee — disable account immediately | Mark Cogswell | 🔴 High | ✅ Resolved |
+| INC-0010027 | Incorrect display name in Active Directory | Rowena Steeves | 🟡 Standard | ✅ Resolved |
 
 ---
 
@@ -105,85 +105,85 @@ The ticket status was updated to **Resolved** and then **Closed**, completing th
 
 ---
 
-### 🎫 INC-3001 — Account Lockout
+### 🎫 INC-0010023 — Account Lockout
 
-**Affected User:** Jane Mitchell
+**Affected User:** Barry Harriston
 **Priority:** High
 **Category:** Account Management
 
 **Issue Description:**
-User Jane Mitchell called the Help Desk reporting she could not log in to her workstation. She received an error message stating her account was locked.
+User Barry Harriston called the Help Desk reporting he could not log in to his workstation. He received an error message stating his account was locked.
 
 **Resolution:**
-Located Jane Mitchell's account in Active Directory Users and Computers. Confirmed the account was locked out on the Account tab. Verified the identity of the caller before proceeding. Unlocked the account and reset the temporary password to Welcome1! with the requirement to change at next logon. Confirmed with the user that she was able to log in successfully.
+Located Barry Harriston's account in Active Directory Users and Computers. Confirmed the account was locked out on the Account tab. Verified the identity of the caller before proceeding. Unlocked the account and reset the temporary password to Welcome1! with the requirement to change at next logon. Confirmed with the user that she was able to log in successfully.
 
 **Resolution Time:** 8 minutes
 **Status:** Closed
 
 ---
 
-### 🎫 INC-3002 — Password Reset
+### 🎫 INC-0010024 — Password Reset
 
-**Affected User:** Marcus Delgado
+**Affected User:** Carli Trueblood
 **Priority:** Standard
 **Category:** Password Management
 
 **Issue Description:**
-User Marcus Delgado submitted a ticket stating he forgot his password and could not log in to his account.
+User Carli Trueblood submitted a ticket stating she forgot her password and could not log in to her account.
 
 **Resolution:**
-Located Marcus Delgado's account in Active Directory Users and Computers. Verified the identity of the user before proceeding. Reset the password to the temporary password Welcome1! and checked the box requiring the user to change his password at next logon. Notified the user of the temporary password via phone. Confirmed the user was able to log in and set a new password successfully.
+Located Carli Trueblood's account in Active Directory Users and Computers. Verified the identity of the user before proceeding. Reset the password to the temporary password Welcome1! and checked the box requiring the user to change her password at next logon. Notified the user of the temporary password via phone. Confirmed the user was able to log in and set a new password successfully.
 
 **Resolution Time:** 5 minutes
 **Status:** Closed
 
 ---
 
-### 🎫 INC-3003 — Shared Folder Access Request
+### 🎫 INC-0010025 — Shared Folder Access Request
 
-**Affected User:** Priya Nair
+**Affected User:** Joane Ausherman
 **Priority:** Standard
 **Category:** Access Management
 
 **Issue Description:**
-New employee Priya Nair submitted a ticket reporting she was unable to access the Sales department shared network folder needed to perform her job duties.
+New employee Joane Ausherman submitted a ticket reporting she was unable to access the Sales department shared network folder needed to perform her job duties.
 
 **Resolution:**
-Located Priya Nair's account in Active Directory Users and Computers. Navigated to the Member Of tab in her account properties. Added her account to the Sales_Team Security Group which controls access to the Sales shared folder. Confirmed the group membership was saved. Notified Priya that access had been granted and asked her to log out and back in for the changes to take effect. User confirmed access was working.
+Located Joane Ausherman's account in Active Directory Users and Computers. Navigated to the Member Of tab in her account properties. Added her account to the Sales_Team Security Group which controls access to the Sales shared folder. Confirmed the group membership was saved. Notified Joane that access had been granted and asked her to log out and back in for the changes to take effect. User confirmed access was working.
 
 **Resolution Time:** 6 minutes
 **Status:** Closed
 
 ---
 
-### 🎫 INC-3004 — Terminated Employee Account Disable
+### 🎫 INC-0010026 — Terminated Employee Account Disable
 
-**Affected User:** Thomas Buchanan
+**Affected User:** Mark Cogswell
 **Priority:** High
 **Category:** Account Deprovisioning
 
 **Issue Description:**
-HR submitted an urgent ticket requesting the immediate disabling of Thomas Buchanan's account following his termination effective end of business today.
+HR submitted an urgent ticket requesting the immediate disabling of Mark Cogswell's account following his termination effective end of business today.
 
 **Resolution:**
-Located Thomas Buchanan's account in Active Directory Users and Computers. Right-clicked the account and selected Disable Account. Confirmed the account showed a disabled indicator. Removed the account from all Security Groups to revoke resource access. Moved the disabled account to the Disabled Users OU for retention per company policy. Account will be reviewed for permanent deletion after the standard 90-day retention period. Notified HR that the account had been disabled and all access revoked.
+Located Mark Cogswell's account in Active Directory Users and Computers. Right-clicked the account and selected Disable Account. Confirmed the account showed a disabled indicator. Removed the account from all Security Groups to revoke resource access. Moved the disabled account to the Disabled Users OU for retention per company policy. Account will be reviewed for permanent deletion after the standard 90-day retention period. Notified HR that the account had been disabled and all access revoked.
 
 **Resolution Time:** 10 minutes
 **Status:** Closed
 
 ---
 
-### 🎫 INC-3005 — Incorrect Display Name
+### 🎫 INC-0010027 — Incorrect Display Name
 
-**Affected User:** Angela Forsythe
+**Affected User:** Rowena Steeves
 **Priority:** Standard
 **Category:** Account Maintenance
 
 **Issue Description:**
-User Angela Forsythe submitted a ticket reporting that her display name was appearing incorrectly in the company directory and in Microsoft Outlook. Her name was showing as Angie Forsythe instead of Angela Forsythe.
+User Rowena Steeves submitted a ticket reporting that her display name was appearing incorrectly in the company directory and in Microsoft Outlook. Her name was showing as Rowena Steenes instead of Rowena Steeves.
 
 **Resolution:**
-Located Angela Forsythe's account in Active Directory Users and Computers. Opened her account properties and navigated to the General tab. Updated the First Name field from Angie to Angela and confirmed the Display Name field updated accordingly. Saved the changes. Notified the user that the correction had been made and that the update would reflect in the directory and Outlook within the standard replication window.
+Located Rowena Steeves's account in Active Directory Users and Computers. Opened her account properties and navigated to the General tab. Updated the Last Name field from Steenes to Steeves and confirmed the Display Name field updated accordingly. Saved the changes. Notified the user that the correction had been made and that the update would reflect in the directory and Outlook within the standard replication window.
 
 **Resolution Time:** 4 minutes
 **Status:** Closed
