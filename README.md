@@ -193,8 +193,6 @@ Located Rowena Steeves's account in Active Directory Users and Computers. Opened
 ## 📸 Screenshots
 
 
-| Screenshot | Description |
-|-----------|-------------|
 
 ServiceNow ticket detail — INC- 0010023 account lockout 
 <br /> Account Lockout - Ticket Details <br/>
