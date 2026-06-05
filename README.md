@@ -202,15 +202,15 @@ Located Rowena Steeves's account in Active Directory Users and Computers. Opened
 | 📷 Coming Soon | Active Directory — Security Group membership update |
 | 📷 Coming Soon | Active Directory — disabled account in Disabled Users OU |
 <br /> Disabling the Account — Employee Offboarding  <br/>
-<img src="https://imgur.com/UugGUvt.png" height="80%" width="80%" alt="Disabling the Account Steps"/>
+<img src="https://imgur.com/LEHHgDD.png" height="80%" width="80%" alt="Disabling the Account Steps"/>
 <br />
-<img src="https://imgur.com/fTutntr.png" height="80%" width="80%" alt="Disabling the Account Steps"/>
+<img src="https://imgur.com/oRK6BZs.png" height="80%" width="80%" alt="Disabling the Account Steps"/>
 <br />
-<img src="https://imgur.com/Mw0PRKM.png" height="80%" width="80%" alt="Disabling the Account Steps"/>
+<img src="https://imgur.com/kL1DuX5.png" height="80%" width="80%" alt="Disabling the Account Steps"/>
 <br />
-<img src="https://imgur.com/EWA6iRa.png" height="80%" width="80%" alt="Disabling the Account Steps"/>
+<img src="https://imgur.com/1s5FFL7.png" height="80%" width="80%" alt="Disabling the Account Steps"/>
 <br />
-<img src="https://imgur.com/6lVyliV.png" height="80%" width="80%" alt="Disabling the Account Steps"/>
+<img src="https://imgur.com/lIX5eqT.png" height="80%" width="80%" alt="Disabling the Account Steps"/>
 <br />
 <br />
 | 📷 Coming Soon | ServiceNow — closed ticket with resolution notes |
