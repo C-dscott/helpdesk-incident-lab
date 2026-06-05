@@ -208,8 +208,6 @@ Active Directory — unlocking a locked account
 <br />
 <img src="https://imgur.com/6YuwC86.png" height="80%" width="80%" alt="Creating Ticket Reference  Steps"/>
 <br />
-<img src="https://imgur.com/MoKmo6L.png" height="80%" width="80%" alt="Creating Ticket Reference  Steps"/>
-<br />
 <img src="https://imgur.com/QDdUBK4.png" height="80%" width="80%" alt="Creating Ticket Reference  Steps"/>
 <br />
 <img src="https://imgur.com/DvUS3Hh.png" height="80%" width="80%" alt="Creating Ticket Reference  Steps"/>
